@@ -13,6 +13,7 @@ Foi utilizado o ChatGPT
 Através de linguagem natural solicitei ao ChatGPT que listasse tópicos relevantes sobre Análise de Dados.
 
 ## 🚀 Resultados
+
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
