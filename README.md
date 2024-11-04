@@ -14,7 +14,7 @@ Através de linguagem natural solicitei ao ChatGPT que listasse tópicos relevan
 
 ## 🚀 Resultados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK] (/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
