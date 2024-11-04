@@ -14,7 +14,7 @@ Através de linguagem natural solicitei ao ChatGPT que listasse tópicos relevan
 
 ## 🚀 Resultados
 
-- [E-BOOK](https://github.com/FernandaDuarteRuiz/lab-natty-or-not/blob/main/exemplos/E-BOOK.md)
+- [E-Book](https://github.com/FernandaDuarteRuiz/lab-natty-or-not/blob/main/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
