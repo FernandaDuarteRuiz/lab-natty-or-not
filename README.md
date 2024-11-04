@@ -1,20 +1,23 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Transição de Carreira e novas tecnologias.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto trás tópicos que não podem faltar para aqueles que estão em transição de carreira e possuem interesse na área de Análise de Dados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado o ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de linguagem natural solicitei ao ChatGPT que listasse tópicos relevantes sobre Análise de Dados.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [E-BOOK](/exemplos/E-BOOK.md)
+- [Podcast](/exemplos/PODCAST.md)
+- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Com a advento da tecnologia, as ferramentas de IA Generativas tornam realidade a sintetização de ideias, orientações, resumos e planos em qualquer área de interesse.
+
 ```
