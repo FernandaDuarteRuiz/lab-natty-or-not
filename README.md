@@ -19,6 +19,6 @@ Através de linguagem natural solicitei ao ChatGPT que listasse tópicos relevan
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## 💭 Reflexão (Opcional)
-Com a advento da tecnologia, as ferramentas de IA Generativas tornam realidade a sintetização de ideias, orientações, resumos e planos em qualquer área de interesse.
+Foi muito interessante poder sintetizar ideias através de algumas IAs Generativas.
 
 ```
